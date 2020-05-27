@@ -23,8 +23,10 @@ function InitJump()
 
 function Jump()
 {
+  ; right click to the first waypoint
   call rightClickAt 78 272
   wait 20
+  ; left click in the context menu on `jump though stargate`
   call leftClickAt 115 282
 }
 
