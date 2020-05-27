@@ -9,6 +9,8 @@ Its just a first aid kit for a pilot who do not have to much time.
 
 --
 
+Important: Make the left sidebar very small, then the hardcoded x and y coords should be fit your resolution.
+
 undock: 
   - `run autopilot` 
   - wait for the first mousemoment
