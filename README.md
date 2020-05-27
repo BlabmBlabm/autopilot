@@ -14,7 +14,8 @@ undock:
   - wait for the first mousemoment
   - now you can let run your eve windows in background (the bot only take the mouse control if the windows is in the background)
   If the eve window is foccused, the routine stops.
+  - `ends autopilot` to stop the script.
 
 TODO/Issues: 
   - It will not dock in the final destination.
-  - Warp detections sucks
+  - Warp detection sucks
