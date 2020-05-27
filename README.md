@@ -9,6 +9,12 @@ Its just a first aid kit for a pilot who do not have to much time.
 
 --
 
-undock: `run autopilot` wait for the first mousemoment and then you have to leave the eve window and the script will use your mouse in the background and navigate you to the location.
+undock: 
+  - `run autopilot` 
+  - wait for the first mousemoment
+  - now you can let run your eve windows in background (the bot only take the mouse control if the windows is in the background)
+  If the eve window is foccused, the routine stops.
 
-It will not dock in the final destination.
+TODO/Issues: 
+  - It will not dock in the final destination.
+  - Warp detections sucks
