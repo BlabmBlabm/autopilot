@@ -3,7 +3,7 @@ eve online autopilot for inner space
 
 --
 
-coded in 5min, tested in 10min and but I use it now for 5 hours now to fly around with freigthers.
+coded in 5min, tested in 10min, but I use it now for 5 hours now to fly around with freigthers.
 
 Its just a first aid kit for a pilot who do not have to much time.
 
